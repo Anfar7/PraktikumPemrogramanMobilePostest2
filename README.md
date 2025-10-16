@@ -1,2 +1,2 @@
 # POSTESTPERT2
-saya menggunakan bahsa java, dikarenakan saya lebih memahami dan nyaman menggunakan java dibanding bhs kotlin. tugas ini, dibuat untuk postest pemrograman mobile.
+Tugas Proyek ini Didedikasihkan untuk Postest Praktikum Pemrograman Mobile, semester 5 dengan ketentuan image, layout linear dan relative serta, dapat di scroll.
